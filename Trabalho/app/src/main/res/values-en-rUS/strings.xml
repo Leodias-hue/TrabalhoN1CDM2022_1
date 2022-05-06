@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">work</string>
+    <string name="btnSalvar">save</string>
+    <string name="btnsistemaoperacional">operation system</string>
+    <string name="btnpreco">price</string>
+    <string name="btnDigiteaquiaMarca">"Enter the Brand here "</string>
+    <string name="btnDigiteaquiaModelo">" Enter Model here"</string>
+    <string name="buttonAdicionar">add</string>
+</resources>

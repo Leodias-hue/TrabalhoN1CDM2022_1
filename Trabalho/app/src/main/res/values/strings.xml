@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trabalho</string>
+    <string name="buttonAdicionar">Adicionar</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="btnsistemaoperacional">sistema operacional</string>
+    <string name="btnpreco">preço</string>
+    <string name="btnDigiteaquiaMarca">Digite aqui a Marca</string>
+    <string name="btnDigiteaquiaModelo">Digite aqui a Modelo</string>
+
+
+
+</resources>
